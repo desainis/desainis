@@ -2,29 +2,14 @@
 
 ___
 
-- I'm currently DevOps Engineer at IBM pioneering the birth of a microservice architecture for Planning Analytics on Cloud, improving application lifecycle, evolving software systems to increase their reliability, monitoring application performance, and ensuring overall system health. Check out my **resume** [here](https://desainis.github.io/resume/).
-___
-
-![](https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif)
-
-___
-
-### 🔭 I’m currently working on
-  - Becoming an AWS Certified Solutions Architect
-  - Learning HashiCorp Terraform
-  
-### 🌱 I’m currently learning
-  - How to build highly available and resilient architectures
-  - Terraform
-
-### 💬 Ask me about
-  - Anything DevOps
-  - Career transistion (are you bored as a software engineer !?) 
-
-### 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/nishant-desai/)
-
-### ⚡ Fun fact:
-  - I once used Windows in the Cloud and felt like giving up on life altogether. 
+<h3 align='center'><samp><strong>Nishant Desai</strong></samp>😁</h3> 
+<p align='center'> <samp>Computer Scientist | AWS Solutions Architect | Cloud Engineer | DevOps | Site Reliability Engineer</samp></p>
+<br><br>
+<p align='center'>
+<a href="https://www.linkedin.com/in/nishant-desai/"><img height="26" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/10136638/nishant-desai"><img height="25" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/estouro-de-pilha.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://desainis.github.io/"><img height="27" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/external.png?raw=true" alt=""></a>&nbsp;&nbsp;
+<a href="mailto:nishantdesai@live.com"><img height="22" src="https://raw.githubusercontent.com/AntonioFalcao/AntonioFalcao/master/img/mail.png?raw=true" alt=""></a>
+</p>
   
  ![](https://visitor-badge.glitch.me/badge?page_id=desainis.desainis-badge)
