@@ -1,7 +1,3 @@
-### Hi there 👋
-
-___
-
 <h3 align='center'><samp><strong>Nishant Desai</strong></samp> 🤓 </h3> 
 <p align='center'> <samp>Computer Scientist | AWS Solutions Architect | Cloud Engineer | DevOps | Site Reliability Engineer</samp></p>
 <br><br>
