@@ -2,7 +2,10 @@
 
 ___
 
-![](https://media.giphy.com/media/gw3LordAQW5GAWE8/giphy.gif)
+- I'm currently DevOps Engineer at IBM pioneering the birth of a microservice architecture for Planning Analytics on Cloud, improving application lifecycle, evolving software systems to increase their reliability, monitoring application performance, and ensuring overall system health.
+___
+
+![](https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif)
 
 ___
 
@@ -23,3 +26,5 @@ ___
 
 ### ⚡ Fun fact:
   - I once used Windows in the Cloud and felt like giving up on life altogether. 
+  
+ ![](https://visitor-badge.glitch.me/badge?page_id=desainis.desainis-badge)
