@@ -2,7 +2,7 @@
 
 ___
 
-- I'm currently DevOps Engineer at IBM pioneering the birth of a microservice architecture for Planning Analytics on Cloud, improving application lifecycle, evolving software systems to increase their reliability, monitoring application performance, and ensuring overall system health.
+- I'm currently DevOps Engineer at IBM pioneering the birth of a microservice architecture for Planning Analytics on Cloud, improving application lifecycle, evolving software systems to increase their reliability, monitoring application performance, and ensuring overall system health. Check out my **resume** [here](https://desainis.github.io/resume/).
 ___
 
 ![](https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif)
