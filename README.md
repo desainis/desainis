@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**desainis/desainis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+![](https://media.giphy.com/media/gw3LordAQW5GAWE8/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+
+### 🔭 I’m currently working on
+  - Becoming an AWS Certified Solutions Architect
+  - Learning HashiCorp Terraform
+  
+### 🌱 I’m currently learning
+  - How to build highly available and resilient architectures
+  - Terraform
+
+### 💬 Ask me about
+  - Anything DevOps
+  - Career transistion (are you bored as a software engineer !?) 
+
+### 📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/nishant-desai/)
+
+### ⚡ Fun fact:
+  - I once used Windows in the Cloud and felt like giving up on life altogether. 
